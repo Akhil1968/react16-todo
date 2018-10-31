@@ -1,0 +1,32 @@
+.InputControl {
+    width: 100px;
+    padding: 5px;
+    box-sizing: border-box;
+    margin: 5px;
+    border: 2px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    font-size: 1.0rem;
+    font-weight: bold;
+    background-color: rgb(181, 185, 120);
+    color: rgb(59, 4, 4);
+    text-align: left;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.button {
+    width: 120px;
+    padding: 5px;
+    box-sizing: border-box;
+    margin: 10px;
+    border: 1px solid #eee;
+    box-shadow: 0 1px 1px #ccc;
+    font-weight: bold;
+    font-size: 1.8rem;
+    border-radius: 20px;
+    background-color: rgb(7, 78, 136);
+    color: rgb(190, 187, 187);
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+}

@@ -1,0 +1,26 @@
+.TextControl {
+    width:500px;
+    padding: 2px;
+    box-sizing: border-box;
+    margin: 3px;
+    border: 1px solid rgb(19, 192, 169);
+    font-weight: bold;
+    font-size: 10;
+    border-radius: 10px;
+    background-color: rgb(8, 102, 39);
+    color: rgb(218, 224, 191);
+}
+
+.ListButton {
+    width: 150px;
+    padding: 1px;
+    box-sizing: border-box;
+    margin: 1px;
+    border: 1px solid rgb(103, 154, 236);
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: rgb(4, 45, 78);
+    color: rgb(222, 223, 207);
+    text-align: center;
+    cursor: pointer;
+   }
